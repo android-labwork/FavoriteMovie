@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">favorite play movie</string>
+    <string name="movie_name">Movie</string>
+    <string name="tv_show_name">TV Show</string>
+    <string name="setting_name">Settings</string>
+    <string name="favorite_name">Favorite</string>
+    <string name="delete_name">Delete</string>
+    <string name="search_name">Search here</string>
+    <string name="search_movie_name">Search Movie</string>
+    <string name="search_tv_name">Search TV Show</string>
+    <string name="en_setting_name">English</string>
+    <string name="id_setting_name">Bahasa Indonesia</string>
+    <string name="lang_name">Language</string>
+    <string name="reminder_name">Reminder</string>
+    <string name="reminder_daily_name">Daily Reminder</string>
+    <string name="reminder_release_name">Release Reminder</string>
+
+    <!-- DUMMY CONTENT -->
+    <string name="img_desc_dummy">Dummy Image Description</string>
+    <string name="msg_language_dummy">Successfully changed language</string>
+    <string name="msg_subtitle_not_found">Description not available.</string>
+    <string name="msg_insert_success">Successfully added a favorite</string>
+    <string name="msg_delete_success">Successfully delete favorite</string>
+    <string name="msg_insert_failed">Failed to add favorite</string>
+    <string name="msg_not_found">There is no favorite data yet.</string>
+    <string name="msg_delete">Do you want to delete It?</string>
+
+    <!-- API KEY -->
+    <string name="api_key">b6f810a237345f0a4be9c241835b2a9b</string>
+
+    <string name="action_yes">Yes</string>
+    <string name="action_no">No</string>
+</resources>
